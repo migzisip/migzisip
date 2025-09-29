@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="bacteria_icon.png🦠" width="90" alt="bacteria icon" />
+  <img src="12034706.gif🦠" width="90" alt="bacteria icon" />
 </p>
 
 <p align="center">
