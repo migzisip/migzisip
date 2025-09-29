@@ -77,15 +77,15 @@
 ### 📌 Featured work
 - **Combinatorial gRNA Designer** — CHOPCHOP-powered local webapp for *A. thaliana*  
   `Python · Flask/Gunicorn · Live logs · PDF report`  
-  ➜ https://github.com/your-username/combinatorial-grna-design
+  ➜ https://github.com/combinatorial-grna-design
 
 - **Microbiota ↔ Transcriptome ML** — Predict plant traits from SynComs + RNA-seq  
   `PyTorch · sklearn · SHAP · Bayesian optimization`  
-  ➜ https://github.com/your-username/microbiota-ml-pipeline
+  ➜ https://github.com/microbiota-ml-pipeline
 
 - **RNA-seq Toolkit** — kallisto → DESeq2 → clustering → GO enrichment  
   `Snakemake · R · tidyverse · ggplot2`  
-  ➜ https://github.com/your-username/rnaseq-toolkit
+  ➜ https://github.com/rnaseq-toolkit
 
 ---
 
@@ -123,7 +123,7 @@
 
 ### 🎓 Teaching & resources
 - Short tutorials: **kallisto/DESeq2**, **GO enrichment**, **SHAP interpretations**  
-- Slides & notebooks: https://github.com/your-username/teaching
+- Slides & notebooks: https://github.com/teaching
 
 ---
 
