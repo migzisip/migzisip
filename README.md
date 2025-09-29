@@ -1,7 +1,7 @@
 <!-- ====== HEADER BANNER ====== -->
 <p align="center">
   <!-- soft wave banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Hello%2C%20I%27m%20%F0%9F%8C%B1%20Your%20Name&fontSize=34&fontColor=ffffff&animation=twinkling" alt="header"/>
+  <img src="original-43d15e7c78f7b3b5d8c28f01654149fc.gif" alt="header"/>
 </p>
 
 <p align="center">
