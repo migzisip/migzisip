@@ -1,7 +1,7 @@
 <!-- ====== HEADER BANNER ====== -->
 <p align="center">
   <!-- soft wave banner -->
-  <img src="original-43d15e7c78f7b3b5d8c28f01654149fc.gif" alt="header"/>
+  <img src="original-43d15e7c78f7b3b5d8c28f01654149fc-ezgif.com-crop.gif" alt="header"/>
 </p>
 
 <p align="center">
