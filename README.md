@@ -90,17 +90,17 @@
 ---
 
 ### 📝 Selected publications
-- (2025) *Decoding plant responses to order-specific microbiota through multi-omics and predictive modeling* — QE Proposal  
-- (2024) **Antarmycins: Discovery, Biosynthesis, Anti-pathogenic Activity** — *JACS Au*  
-- Full list on **[Google Scholar](https://scholar.google.com/citations?user=YOURID)**
+- (2025) *Misregulation of the jasmonate signaling pathway leads to altered plant microbiota interaction and plant stress responses* — bioRxiv  
+- (2021) *Forecasting anthracnose-twister disease using weather based parameters: geographically weighted regression focus* - Spatial Information Research
+- Full list on **[Google Scholar](https://scholar.google.com/citations?user=EfU1b5UAAAAJ&hl=en)**
 
 ---
 
 ### 📊 Research & Dev metrics
 <p align="center">
   <!-- GitHub profile stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=migzisip&show_icons=true&hide_title=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migzisip&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 <details>
