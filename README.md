@@ -1,11 +1,11 @@
 <!-- ====== HEADER BANNER ====== -->
 <p align="center">
   <!-- soft wave banner -->
-  <img src="original-43d15e7c78f7b3b5d8c28f01654149fc-ezgif.com-crop.gif" alt="header"/>
+  <img src="img/original-43d15e7c78f7b3b5d8c28f01654149fc-ezgif.com-crop.gif" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="12034706.gif" width="90" alt="bacteria icon" />
+  <img src="img/12034706.gif" width="90" alt="bacteria icon" />
 </p>
 
 <p align="center">
