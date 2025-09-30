@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
   <img src= "img/12034706.gif"  width="90" alt="bacteria_icon" />
-=======
-  <img src="12034706.gif"  width="90" alt="bacteria icon" />
->>>>>>> 6298850e94759f118e168d0749e0153fdd24ed4e
 </p>
 
 <p align="center">
